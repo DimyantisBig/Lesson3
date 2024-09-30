@@ -1,5 +1,5 @@
 from operator import index
-
+# Темы которые я не понял решение
 text = 'hello'
 print(text.index('e'))
 x = 'world'
